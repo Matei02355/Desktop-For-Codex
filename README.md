@@ -18,13 +18,12 @@
     <img src="https://img.shields.io/badge/status-Alpha-orange" alt="Status">
     <br>
     <img src="https://img.shields.io/badge/Made%20for-Codex-blue" alt="Made for Codex">
-    <img src="https://img.shields.io/badge/Engineered%20by-Codex-000000?logo=openai&logoColor=white" alt="Built by Codex">
+    <img src="https://img.shields.io/badge/Engineered%20by-Codex-000000?logo=openai&logoColor=white" alt="Built by Matei6942">
   </div>
 </div>
 
 ---
 
-> **🤖 Recursively Engineered:** This entire application—architecture, UI, and logic—was written by Codex itself. It is a tool built by an AI, for an AI.
 
 ## 📸 Preview
 
@@ -84,7 +83,7 @@ npm start
 
 ## ☕ Support the Dev
 
-If this tool saves you time (or you just think it's cool that an AI built it), consider buying me a coffee!
+If this tool saves you time,consider buying me a coffee!
 
 <a href="https://buymeacoffee.com/matei6942" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
